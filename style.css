@@ -42,5 +42,5 @@ background-color: rgb(0, 110, 255);
 canvas{
     border: 3px solid black;
     box-shadow: 5px 5px 5px orange;
-    margin-top: 10px;
+    margin-top: 100px;
 }
